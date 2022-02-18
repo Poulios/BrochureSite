@@ -14,16 +14,17 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
+  <h1>Brochure Site</h1>
   <a href="https://github.com/github_username/repo_name">
     <img src="./assets/logo3.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">TeamX</h3>
+<h3>TeamX</h3>
 
   <p align="center">
-    Brochure Site
+    <a href="https://youtu.be/xC8XPHoN04I">View Demo Video</a>
     <br />
-    <a href="https://youtu.be/xC8XPHoN04I">View Demo</a>
+    <a href="https://poulios.github.io/BrochureSite/">Browse it</a>
   </p>
 </div>
 
