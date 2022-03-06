@@ -103,7 +103,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-[LinkdeIn](https://www.linkedin.com/in/evangelospouliosgr/)
+[LinkedIn](https://www.linkedin.com/in/evangelospouliosgr/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
